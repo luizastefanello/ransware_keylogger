@@ -1,9 +1,3 @@
-O repositório que você compartilhou abrange **ambos os desafios (Ransomware e Keylogger)**, o que é excelente para demonstrar um entendimento completo sobre diferentes tipos de malwares.
-
-Abaixo está uma sugestão de arquivo **`README.md`** abrangente, estruturado em um formato de portfólio técnico que documenta ambas as simulações, conforme solicitado no desafio.
-
----
-
 # 🛡️ Projeto de Simulação e Análise de Malwares (Ransomware & Keylogger)
 
 ## ⚠️ AVISO DE SEGURANÇA E USO EDUCACIONAL
